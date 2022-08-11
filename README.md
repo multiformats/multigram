@@ -1,17 +1,15 @@
 # multigram
 
+## Status
+
+This repository is in a **frozen** state and is not being actively maintained. Even though work on this repository has been **shelved**, anyone interested in updating or maintaining this project should express their interest in the [IPFS specifications repository](https://github.com/ipfs/specs). See [this issue](https://github.com/ipfs/specs/pull/123) for previous discussions regarding this project.
+
+---
+
 [![](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square)](http://ipn.io)
 [![](https://img.shields.io/badge/project-multiformats-blue.svg?style=flat-square)](https://github.com/multiformats/multiformats)
-[![](https://img.shields.io/badge/freenode-%23ipfs-blue.svg?style=flat-square)](https://webchat.freenode.net/?channels=%23ipfs)
-[![](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
 > Protocol negotiation and multiplexing over datagrams
-
-This repository is a **work in progress**. Current work is being done in [this issue](https://github.com/ipfs/specs/pull/123).
-
-## Maintainers
-
-Captain: [@lgierth](https://github.com/lgierth).
 
 ## Contribute
 
